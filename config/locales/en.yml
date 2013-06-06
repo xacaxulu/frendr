@@ -8,4 +8,4 @@ en:
     sign_in: "Sign in with Twitter"
     sign_out: "Sign out"
   help:
-    sign_in: "Start by pressing this button to authenticate with Twitter."
+    sign_in: ""
