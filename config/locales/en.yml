@@ -9,9 +9,3 @@ en:
     sign_out: "Sign out"
   help:
     sign_in: "Start by pressing this button to authenticate with Twitter."
-  link:
-    omniauth_html: "<a href=\"https://rubygems.org/gems/omniauth\">OmniAuth</a>"
-    ruby_on_rails_html: "<a href=\"http://rubyonrails.org/\">Ruby on Rails</a>"
-    sign_in_with_twitter_html: "<a href=\"https://dev.twitter.com/docs/auth/sign-twitter\">Sign in with Twitter</a>"
-    twitter_gem_html: "<a href=\"https://rubygems.org/gems/twitter\">twitter gem</a>"
-  
